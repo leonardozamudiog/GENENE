@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2026 TR NETWORK\\proyectos\\Primer Proyecto (Cafeter\u00EDa)\\Gen2026-Ene\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C709A00-43BF-0FB7-FB1A-1F097EAD1FE4}|D:\\2026 TR NETWORK\\proyectos\\Primer Proyecto (Cafeter\u00EDa)\\Gen2026-Ene\\Gen2026-Ene|d:\\2026 tr network\\proyectos\\primer proyecto (cafeter\u00EDa)\\gen2026-ene\\gen2026-ene\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C709A00-43BF-0FB7-FB1A-1F097EAD1FE4}|D:\\2026 TR NETWORK\\proyectos\\Primer Proyecto (Cafeter\u00EDa)\\Gen2026-Ene\\Gen2026-Ene|solutionrelative:gen2026-ene\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C709A00-43BF-0FB7-FB1A-1F097EAD1FE4}|D:\\2026 TR NETWORK\\proyectos\\Primer Proyecto (Cafeter\u00EDa)\\Gen2026-Ene\\Gen2026-Ene|d:\\2026 tr network\\proyectos\\primer proyecto (cafeter\u00EDa)\\gen2026-ene\\gen2026-ene\\xml\\menu.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5C709A00-43BF-0FB7-FB1A-1F097EAD1FE4}|D:\\2026 TR NETWORK\\proyectos\\Primer Proyecto (Cafeter\u00EDa)\\Gen2026-Ene\\Gen2026-Ene|solutionrelative:gen2026-ene\\xml\\menu.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C709A00-43BF-0FB7-FB1A-1F097EAD1FE4}|D:\\2026 TR NETWORK\\proyectos\\Primer Proyecto (Cafeter\u00EDa)\\Gen2026-Ene\\Gen2026-Ene|d:\\2026 tr network\\proyectos\\primer proyecto (cafeter\u00EDa)\\gen2026-ene\\gen2026-ene\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5C709A00-43BF-0FB7-FB1A-1F097EAD1FE4}|D:\\2026 TR NETWORK\\proyectos\\Primer Proyecto (Cafeter\u00EDa)\\Gen2026-Ene\\Gen2026-Ene|solutionrelative:gen2026-ene\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C709A00-43BF-0FB7-FB1A-1F097EAD1FE4}|C:\\Users\\cataf\\source\\repos\\Gen2026-Ene\\Gen2026-Ene|D:\\2026 TR NETWORK\\proyectos\\Primer Proyecto (Cafeter\u00EDa)\\Gen2026-Ene\\gen2026-ene\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C709A00-43BF-0FB7-FB1A-1F097EAD1FE4}|C:\\Users\\cataf\\source\\repos\\Gen2026-Ene\\Gen2026-Ene|solutionrelative:gen2026-ene\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C709A00-43BF-0FB7-FB1A-1F097EAD1FE4}|D:\\2026 TR NETWORK\\proyectos\\Primer Proyecto (Cafeter\u00EDa)\\Gen2026-Ene\\Gen2026-Ene|d:\\2026 tr network\\proyectos\\primer proyecto (cafeter\u00EDa)\\gen2026-ene\\gen2026-ene\\xslt\\template.xslt||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5C709A00-43BF-0FB7-FB1A-1F097EAD1FE4}|D:\\2026 TR NETWORK\\proyectos\\Primer Proyecto (Cafeter\u00EDa)\\Gen2026-Ene\\Gen2026-Ene|solutionrelative:gen2026-ene\\xslt\\template.xslt||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C709A00-43BF-0FB7-FB1A-1F097EAD1FE4}|C:\\Users\\cataf\\source\\repos\\Gen2026-Ene\\Gen2026-Ene|D:\\2026 TR NETWORK\\proyectos\\Primer Proyecto (Cafeter\u00EDa)\\Gen2026-Ene\\gen2026-ene\\xslt\\template.xslt||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5C709A00-43BF-0FB7-FB1A-1F097EAD1FE4}|C:\\Users\\cataf\\source\\repos\\Gen2026-Ene\\Gen2026-Ene|solutionrelative:gen2026-ene\\xslt\\template.xslt||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C709A00-43BF-0FB7-FB1A-1F097EAD1FE4}|C:\\Users\\cataf\\source\\repos\\Gen2026-Ene\\Gen2026-Ene|D:\\2026 TR NETWORK\\proyectos\\Primer Proyecto (Cafeter\u00EDa)\\Gen2026-Ene\\gen2026-ene\\xml\\menu.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5C709A00-43BF-0FB7-FB1A-1F097EAD1FE4}|C:\\Users\\cataf\\source\\repos\\Gen2026-Ene\\Gen2026-Ene|solutionrelative:gen2026-ene\\xml\\menu.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C709A00-43BF-0FB7-FB1A-1F097EAD1FE4}|D:\\2026 TR NETWORK\\proyectos\\Primer Proyecto (Cafeter\u00EDa)\\Gen2026-Ene\\Gen2026-Ene|d:\\2026 tr network\\proyectos\\primer proyecto (cafeter\u00EDa)\\gen2026-ene\\gen2026-ene\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5C709A00-43BF-0FB7-FB1A-1F097EAD1FE4}|D:\\2026 TR NETWORK\\proyectos\\Primer Proyecto (Cafeter\u00EDa)\\Gen2026-Ene\\Gen2026-Ene|solutionrelative:gen2026-ene\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "D:\\2026 TR NETWORK\\proyectos\\Primer Proyecto (Cafeter\u00EDa)\\Gen2026-Ene\\Gen2026-Ene\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "Gen2026-Ene\\Default.aspx.cs",
+              "ToolTip": "D:\\2026 TR NETWORK\\proyectos\\Primer Proyecto (Cafeter\u00EDa)\\Gen2026-Ene\\Gen2026-Ene\\Default.aspx.cs",
+              "RelativeToolTip": "Gen2026-Ene\\Default.aspx.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwCgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T17:33:52.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "template.xslt",
+              "DocumentMoniker": "D:\\2026 TR NETWORK\\proyectos\\Primer Proyecto (Cafeter\u00EDa)\\Gen2026-Ene\\Gen2026-Ene\\xslt\\template.xslt",
+              "RelativeDocumentMoniker": "Gen2026-Ene\\xslt\\template.xslt",
+              "ToolTip": "D:\\2026 TR NETWORK\\proyectos\\Primer Proyecto (Cafeter\u00EDa)\\Gen2026-Ene\\Gen2026-Ene\\xslt\\template.xslt",
+              "RelativeToolTip": "Gen2026-Ene\\xslt\\template.xslt",
+              "ViewState": "AgIAAJYCAAAAAAAAAAAAwK0CAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003586|",
+              "WhenOpened": "2026-01-07T17:23:24.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.xml",
+              "DocumentMoniker": "D:\\2026 TR NETWORK\\proyectos\\Primer Proyecto (Cafeter\u00EDa)\\Gen2026-Ene\\Gen2026-Ene\\xml\\Menu.xml",
+              "RelativeDocumentMoniker": "Gen2026-Ene\\xml\\Menu.xml",
+              "ToolTip": "D:\\2026 TR NETWORK\\proyectos\\Primer Proyecto (Cafeter\u00EDa)\\Gen2026-Ene\\Gen2026-Ene\\xml\\Menu.xml",
+              "RelativeToolTip": "Gen2026-Ene\\xml\\Menu.xml",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAgwJAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-01-07T17:19:36.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\2026 TR NETWORK\\proyectos\\Primer Proyecto (Cafeter\u00EDa)\\Gen2026-Ene\\Gen2026-Ene\\Web.config",
+              "RelativeDocumentMoniker": "Gen2026-Ene\\Web.config",
+              "ToolTip": "D:\\2026 TR NETWORK\\proyectos\\Primer Proyecto (Cafeter\u00EDa)\\Gen2026-Ene\\Gen2026-Ene\\Web.config",
+              "RelativeToolTip": "Gen2026-Ene\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-06T23:04:46.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "D:\\2026 TR NETWORK\\proyectos\\Primer Proyecto (Cafeter\u00EDa)\\Gen2026-Ene\\Gen2026-Ene\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "Gen2026-Ene\\Default.aspx.cs",
+              "ToolTip": "D:\\2026 TR NETWORK\\proyectos\\Primer Proyecto (Cafeter\u00EDa)\\Gen2026-Ene\\Gen2026-Ene\\Default.aspx.cs",
+              "RelativeToolTip": "Gen2026-Ene\\Default.aspx.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T22:24:58.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "D:\\2026 TR NETWORK\\proyectos\\Primer Proyecto (Cafeter\u00EDa)\\Gen2026-Ene\\Gen2026-Ene\\Default.aspx",
+              "RelativeDocumentMoniker": "Gen2026-Ene\\Default.aspx",
+              "ToolTip": "D:\\2026 TR NETWORK\\proyectos\\Primer Proyecto (Cafeter\u00EDa)\\Gen2026-Ene\\Gen2026-Ene\\Default.aspx",
+              "RelativeToolTip": "Gen2026-Ene\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-02T22:24:49.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "template.xslt",
+              "DocumentMoniker": "D:\\2026 TR NETWORK\\proyectos\\Primer Proyecto (Cafeter\u00EDa)\\Gen2026-Ene\\Gen2026-Ene\\xslt\\template.xslt",
+              "RelativeDocumentMoniker": "Gen2026-Ene\\xslt\\template.xslt",
+              "ToolTip": "D:\\2026 TR NETWORK\\proyectos\\Primer Proyecto (Cafeter\u00EDa)\\Gen2026-Ene\\Gen2026-Ene\\xslt\\template.xslt",
+              "RelativeToolTip": "Gen2026-Ene\\xslt\\template.xslt",
+              "ViewState": "AgIAAL8BAAAAAAAAAAAAAOEBAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003586|",
+              "WhenOpened": "2026-01-02T22:20:29.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Menu.xml",
+              "DocumentMoniker": "D:\\2026 TR NETWORK\\proyectos\\Primer Proyecto (Cafeter\u00EDa)\\Gen2026-Ene\\Gen2026-Ene\\xml\\Menu.xml",
+              "RelativeDocumentMoniker": "Gen2026-Ene\\xml\\Menu.xml",
+              "ToolTip": "D:\\2026 TR NETWORK\\proyectos\\Primer Proyecto (Cafeter\u00EDa)\\Gen2026-Ene\\Gen2026-Ene\\xml\\Menu.xml",
+              "RelativeToolTip": "Gen2026-Ene\\xml\\Menu.xml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAiwDUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-01-02T22:13:41.723Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 34,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d3b09462-361e-4675-acc6-e0732f84d521}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ec2c1c6c-cecc-4f7a-869e-9a8f55540944}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5e929736-0e81-4d52-a78e-546a1649faca}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1154,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
